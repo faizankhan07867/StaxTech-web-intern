@@ -13,4 +13,4 @@ Both made using HTML, CSS, and JavaScript.
 
 Live Demo (GitHub Pages):  
 - Portfolio →   https://github.com/faizankhan07867/StaxTech-web-intern/blob/main/Portfolio%20website
-- To-Do List → 
+- To-Do List → https://github.com/faizankhan07867/StaxTech-web-intern/blob/main/To%20Do%20List%20App
