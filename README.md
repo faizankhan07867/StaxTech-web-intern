@@ -12,5 +12,5 @@ Roadmap for IT/CSE project ideas
 Both made using HTML, CSS, and JavaScript.
 
 Live Demo (GitHub Pages):  
-- Portfolio → https://faizankhan07867.github.io/Portfolio/  
-- To-Do List → https://faizankhan07867.github.io/ToDoApp/
+- Portfolio →   https://github.com/faizankhan07867/StaxTech-web-intern/blob/main/Portfolio%20website
+- To-Do List → 
